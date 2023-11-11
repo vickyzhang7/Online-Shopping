@@ -83,59 +83,66 @@ Online Shopping Website is a full-stack MERN (MongoDB, Express, React, Node.js) 
 
 ## Interface Screenshots
 
-1. **Initial Interface (No Users)**:
-   - Upon the initial launch of the application, users will encounter a screen displaying "No users" since no user information is pre-stored. Authentication is required for further access.
+1. **Initial Interface (Product Showcase)**:
+   
+   - Presents a selection of product names and images, offering users a glimpse of available items.
 
      ![11](https://github.com/vickyzhang7/Online-Shopping/assets/130918669/a8f81eab-353b-4578-8171-2ddd479bd4f0)
 
 
-2. **Sign Up**:
-   - Users can create an account by providing their name, email, password, and a profile picture. If a username or email is already in use, the system will prompt that the user already exists.
+2. **Sign-Up Functionality**:
+   
+   - Users can register by providing necessary information, and the user data is securely stored in MongoDB for future authentication.
 
      <img width="1350" alt="Screenshot 2023-11-10 at 10 07 39 PM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/1f7fcfeb-4ed4-47f4-8913-6fd84bc56d05">
 
 
-
-3. **Log In**:
-   - Registered users can log in to the application to share their travel experiences.
+3. **Product Selection**:
+   
+   - Allows users to browse and select their preferred items. Detailed information about each product is available, and users can also provide product reviews.
 
      <img width="1350" alt="Screenshot 2023-11-10 at 10 08 35 PM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/71c38b6e-22c2-4e28-ae0b-2599b0271065">
 
 
-4. **Manage Travel Records**:
-   - Users can edit, delete, and view the specific locations of their travel records on Google Maps.
+4. **Shopping Cart**:
+   
+   - The shopping cart feature displays a summary of chosen products, including details and the total amount due.
 
      <img width="1350" alt="Screenshot 2023-11-10 at 10 09 13 PM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/10f4c185-f709-45f7-99de-c87b89a3d439">
 
 
 
-5. **Browse All User Travels**:
-   - Users can explore and view the travel records of other users. However, they do not have the permission to modify others' travel records. Users can view the detailed addresses of locations shared by other users on Google Maps.
+5. **Check Out**:
+   
+   - Users are prompted to provide their home address during the checkout process to ensure accurate shipping.
 
      <img width="1350" alt="Screenshot 2023-11-10 at 10 09 27 PM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/ef0dce95-aa7d-488d-838c-7f1d4882f772">
 
 
-6. **Final Dashboard (User Summary)**:
-
-   - The final screenshot provides a summary of all users' information and activities, offering insights into the top contributors and their travel experiences.
+6. **Payment Options**:
+   
+   - Offers users the ability to choose their preferred payment method from available options.
 
      <img width="1350" alt="Screenshot 2023-11-10 at 10 09 36 PM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/b57cda71-adcf-4fe2-84ce-4c71708912da">
+     
 
-. **Final Dashboard (User Summary)**:
-
-   - The final screenshot provides a summary of all users' information and activities, offering insights into the top contributors and their travel experiences.
+7. **Order Summary**:
+   
+   - Presents a comprehensive overview, including the total amount, basic information about purchased products, shipping address, and selected payment method.
 
      <img width="1354" alt="Screenshot 2023-11-10 at 10 10 05 PM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/ee2b6525-03d6-4dd6-bf07-5f93f6ccdf27">
+     
 
-. **Final Dashboard (User Summary)**:
-
-   - The final screenshot provides a summary of all users' information and activities, offering insights into the top contributors and their travel experiences.
+8. **Order Confirmation and ID**:
+   
+   - Users receive a unique order ID, and they are prompted to specify the chosen payment method for the order.
 
      <img width="1354" alt="Screenshot 2023-11-10 at 10 11 00 PM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/a641f40c-383c-4965-93a3-2751082a8397">
+     
 
-. **Final Dashboard (User Summary)**:
-
-   - The final screenshot provides a summary of all users' information and activities, offering insights into the top contributors and their travel experiences.
+9. **PayPal Payment Interface**:
+    
+   - Users are redirected to the PayPal payment interface, where they can input detailed information such as bank card details and billing address.
 
      <img width="809" alt="Screenshot 2023-11-10 at 10 12 09 PM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/ebc36cae-b66b-4882-ae4a-0ce79d06b493">
 
