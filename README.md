@@ -4,7 +4,7 @@
 
 **Summary**:
 
-Online Shopping Website is a full-stack MERN (MongoDB, Express, React, Node.js) application designed to enable users to share travel photos and experiences. This project encompasses both frontend and backend development, along with integration with the Google Maps Platform API, providing rich functionality and interactivity.
+The Online Shopping Platform is a comprehensive MERN (MongoDB, Express, React, Node.js) application that seamlessly integrates frontend and backend components to deliver a robust and user-friendly online shopping experience. This project incorporates key features to enhance user engagement, security, and overall functionality.
 
 **Major frameworks and libraries**:
 
@@ -32,6 +32,10 @@ Online Shopping Website is a full-stack MERN (MongoDB, Express, React, Node.js) 
 [Postman-icon]:https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
 
 **Frontend:**
 
