@@ -115,68 +115,70 @@ The Online Shopping Platform is a comprehensive MERN (MongoDB, Express, React, N
    
    - Presents a selection of product names and images, offering users a glimpse of available items.
 
-     ![11](https://github.com/vickyzhang7/Online-Shopping/assets/130918669/a8f81eab-353b-4578-8171-2ddd479bd4f0)
+     ![11](https://github.com/vickyzhang7/Online-Shopping/assets/130918669/9a1884e3-8cfa-4b69-a36a-624361e723b0)
+2. **Product details**:
+   
+   - Allows users to browse items. Detailed information about each product is available, and users can also provide product reviews.
+
+     ![22](https://github.com/vickyzhang7/Online-Shopping/assets/130918669/b4abf7b8-a7e0-4ab0-bbdf-05137f0252a6)
+
+### Sign-up for users
 
 
-2. **Sign-Up Functionality**:
+
+
+1. **Sign-Up Functionality**:
    
    - Users can register by providing necessary information, and the user data is securely stored in MongoDB for future authentication.
 
-     <img width="1284" alt="Screenshot 2023-11-11 at 12 13 09 AM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/5db721d3-4d02-45cf-b62d-8904fb830675">  
+     <img width="1284" alt="Screenshot 2023-11-11 at 12 13 09 AM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/7e5ede34-ecb6-4b64-9ded-6ba17c67f261">
 
 
-3. **Product Selection**:
-   
-   - Allows users to browse and select their preferred items. Detailed information about each product is available, and users can also provide product reviews.
-
-     <img width="1350" alt="Screenshot 2023-11-10 at 10 08 35 PM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/71c38b6e-22c2-4e28-ae0b-2599b0271065">
-
-
-4. **Shopping Cart**:
+2. **Shopping Cart**:
    
    - The shopping cart feature displays a summary of chosen products, including details and the total amount due.
 
-     <img width="1350" alt="Screenshot 2023-11-10 at 10 09 13 PM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/10f4c185-f709-45f7-99de-c87b89a3d439">
+     <img width="1284" alt="Screenshot 2023-11-11 at 11 29 41 AM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/6a3f890b-812b-4a13-b383-2773965aa86e">
 
 
-
-5. **Check Out**:
+3. **Check Out**:
    
    - Users are prompted to provide their home address during the checkout process to ensure accurate shipping.
 
-     <img width="1350" alt="Screenshot 2023-11-10 at 10 09 27 PM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/ef0dce95-aa7d-488d-838c-7f1d4882f772">
+     <img width="1284" alt="Screenshot 2023-11-11 at 11 29 49 AM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/f499b3b0-f268-4d1d-9eb8-b7f4a49e53c8">
 
 
-6. **Payment Options**:
+4. **Payment Options**:
    
    - Offers users the ability to choose their preferred payment method from available options.
 
-     <img width="1350" alt="Screenshot 2023-11-10 at 10 09 36 PM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/b57cda71-adcf-4fe2-84ce-4c71708912da">
-     
+     <img width="1284" alt="Screenshot 2023-11-11 at 11 29 56 AM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/7a2933c4-f536-4657-85b6-077d0ca80949">
 
-7. **Order Summary**:
+     
+5. **Order Summary**:
    
    - Presents a comprehensive overview, including the total amount, basic information about purchased products, shipping address, and selected payment method.
 
-     <img width="1354" alt="Screenshot 2023-11-10 at 10 10 05 PM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/ee2b6525-03d6-4dd6-bf07-5f93f6ccdf27">
-     
+     <img width="1284" alt="Screenshot 2023-11-11 at 11 30 07 AM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/f63906d0-4ea1-428e-9ef0-22d3b2cd5b29">
 
-8. **Order Confirmation and ID**:
-   
-   - Users receive a unique order ID, and they are prompted to specify the chosen payment method for the order.
-
-     <img width="1354" alt="Screenshot 2023-11-10 at 10 11 00 PM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/a641f40c-383c-4965-93a3-2751082a8397">
-     
-
-9. **PayPal Payment Interface**:
+  
+6. **PayPal Payment Interface**:
     
    - Users are redirected to the PayPal payment interface, where they can input detailed information such as bank card details and billing address.
 
-     <img width="809" alt="Screenshot 2023-11-10 at 10 12 09 PM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/ebc36cae-b66b-4882-ae4a-0ce79d06b493">
+     <img width="1284" alt="Screenshot 2023-11-11 at 11 31 18 AM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/2a22d421-a118-41f9-a066-4a5ec8dc7379">
 
 
+7. **Order Confirmation and ID**:
+   
+   - Users receive a unique order ID, and the status of the order.
+
+     <img width="1284" alt="Screenshot 2023-11-11 at 11 33 04 AM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/e45dfa22-cbe4-419b-99ab-7368e03ab72f">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Sign-in for Manager
+
 
 ## Getting Started
 
