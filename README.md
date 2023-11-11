@@ -123,6 +123,8 @@ The Online Shopping Platform is a comprehensive MERN (MongoDB, Express, React, N
 
      ![22](https://github.com/vickyzhang7/Online-Shopping/assets/130918669/b4abf7b8-a7e0-4ab0-bbdf-05137f0252a6)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Sign-up for users
 
 1. **Sign-Up Functionality**:
