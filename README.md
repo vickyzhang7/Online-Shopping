@@ -150,64 +150,84 @@ Online Shopping Website is a full-stack MERN (MongoDB, Express, React, Node.js) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## Getting Started
 
-These steps will help you clone the repository, set up the back end, and configure the front end, allowing you to start development or run the project. To set up and run this project, follow these steps:
+Follow these steps to clone the repository, set up the backend, and configure the frontend for development or project execution.
 
-1. Clone the repository. This command clones the project repository to your local machine.
+Clone the repository:
    ```sh
-   gh repo clone vickyzhang7/Trip-share-website
+   gh repo clone vickyzhang7/Online-Shopping
    ```
-   
+
 ### Backend Setup
 
-2. Open the `app.js` and `location.js` files and input your API key. Replace 'YOUR KEY' with your actual API key.
-   ```js
-   const API_KEY = 'YOUR KEY';
+1. Create a `.env` file and add the following configuration:
+   ```env
+   PORT=5000
+   MONGO_URI=<your_mongo_db_uri>
+   JWT_SECRET=<your_secret>
+   PAYPAL_CLIENT_ID=<your_paypal_client_id>
+   PAYPAL_APP_SECRET=<your_paypal_secret>
+   PAYPAL_API_URL=https://api-m.sandbox.paypal.com
    ```
+   Replace `<your_mongo_db_uri>`, `<your_secret>`, `<your_paypal_client_id>`, and `<your_paypal_secret>` with your actual MongoDB URI, secret key, PayPal client ID, and PayPal secret.
 
-3. Install Mongoose version 6.  This command installs the required Mongoose version.
+2. Install MongoDB:
    ```sh
-   npm install mongoose@6
+   npm install mongodb
    ```
 
-4. Start the backend server. This command starts the backend server for the application.
+3. Run data import script:
+   ```sh
+   npm run data:import
+   ```
+
+4. Install backend dependencies:
+   ```sh
+   npm install
+   ```
+
+5. Start the backend server:
    ```sh
    npm start
    ```
 
 ### Frontend Setup
 
-5. Install NVM (Node Version Manager). This command installs NVM, a tool for managing Node.js versions.
+1. Install NVM (Node Version Manager):
    ```sh
    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
    ```
-6. Activate NVM. This command activates NVM for use.
+
+2. Activate NVM:
    ```sh
    source ~/.nvm/nvm.sh
    ```
 
-7. Install Node.js version 14. This command installs Node.js version 14, which is required for the project.
+3. Install Node.js version 14:
    ```sh
    nvm install 14
    ```
 
-8. Check Node.js version. Verify that Node.js 14 is successfully installed.
+4. Verify Node.js version:
    ```sh
    node -v
    ```
 
-9. Install frontend project dependencies. This command installs the necessary frontend project dependencies.
+5. Install frontend dependencies:
    ```sh
    npm install
    ```
 
-10. Start the frontend. This command starts at the frontend of the web application.
-    ```sh
-    npm start
-    ```
+6. Build the frontend:
+   ```sh
+   npm run build
+   ```
 
+7. Start the frontend:
+   ```sh
+   npm start
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
