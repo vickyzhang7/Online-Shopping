@@ -179,6 +179,22 @@ The Online Shopping Platform is a comprehensive MERN (MongoDB, Express, React, N
 
 ### Sign-in for Manager
 
+1. **Product Management**:
+   
+   - The system allows for the deletion, addition, and modification of product information.
+
+     <img width="584" alt="Screenshot 2023-11-11 at 11 34 24 AM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/c2b4e601-49a6-4fbc-b053-a2036a75ab46">
+     
+     <img width="378" alt="Screenshot 2023-11-11 at 11 50 17 AM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/4f275970-9073-4b1c-a930-30b03248b5fe">
+
+2. **User Management**:
+   
+   - Users can be deleted or modified, and their roles can be updated, including the option to designate a user as an administrator.
+
+3. **Order Management**:
+   
+   - The order management functionality provides a detailed view of order information, and allows for the marking of orders as dispatched for shipping.
+
 
 ## Getting Started
 
