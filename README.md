@@ -110,6 +110,7 @@ The Online Shopping Platform is a comprehensive MERN (MongoDB, Express, React, N
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Interface Screenshots
+### Without Sign-up for users or Sign-in for Manager
 
 1. **Initial Interface (Product Showcase)**:
    
@@ -123,9 +124,6 @@ The Online Shopping Platform is a comprehensive MERN (MongoDB, Express, React, N
      ![22](https://github.com/vickyzhang7/Online-Shopping/assets/130918669/b4abf7b8-a7e0-4ab0-bbdf-05137f0252a6)
 
 ### Sign-up for users
-
-
-
 
 1. **Sign-Up Functionality**:
    
@@ -183,17 +181,29 @@ The Online Shopping Platform is a comprehensive MERN (MongoDB, Express, React, N
    
    - The system allows for the deletion, addition, and modification of product information.
 
-     <img width="584" alt="Screenshot 2023-11-11 at 11 34 24 AM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/c2b4e601-49a6-4fbc-b053-a2036a75ab46">
+     <img width="1284" alt="Screenshot 2023-11-11 at 11 34 24 AM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/c2b4e601-49a6-4fbc-b053-a2036a75ab46">
      
-     <img width="378" alt="Screenshot 2023-11-11 at 11 50 17 AM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/4f275970-9073-4b1c-a930-30b03248b5fe">
+     <img width="678" alt="Screenshot 2023-11-11 at 11 50 17 AM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/58a6939e-6dd9-4d62-81b2-0984b698dc94">
+
 
 2. **User Management**:
    
    - Users can be deleted or modified, and their roles can be updated, including the option to designate a user as an administrator.
+  
+     <img width="1284" alt="Screenshot 2023-11-11 at 11 35 07 AM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/4b32c6b4-18ec-40cc-adbb-e8a149527998">
+     
+     <img width="1340" alt="Screenshot 2023-11-11 at 11 51 13 AM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/de79b57d-a834-4586-bf5c-0d34670a2eb4">
+
 
 3. **Order Management**:
    
-   - The order management functionality provides a detailed view of order information, and allows for the marking of orders as dispatched for shipping.
+   - The order management functionality provides a detailed view of order information and allows for the marking of orders as delivered for shipping.
+
+     <img width="1284" alt="Screenshot 2023-11-11 at 11 34 38 AM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/f33218ae-0ff1-42dc-a8ff-7e9ba0f3e0e4">
+     
+     <img width="1340" alt="Screenshot 2023-11-11 at 11 50 50 AM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/9f6602af-ab03-4102-849b-53152ab2bd24">
+
+     
 
 
 ## Getting Started
