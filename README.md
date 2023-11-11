@@ -122,7 +122,7 @@ The Online Shopping Platform is a comprehensive MERN (MongoDB, Express, React, N
    
    - Users can register by providing necessary information, and the user data is securely stored in MongoDB for future authentication.
 
-     <img width="1350" alt="Screenshot 2023-11-10 at 10 07 39 PM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/1f7fcfeb-4ed4-47f4-8913-6fd84bc56d05">
+     <img width="1284" alt="Screenshot 2023-11-11 at 12 13 09 AM" src="https://github.com/vickyzhang7/Online-Shopping/assets/130918669/5db721d3-4d02-45cf-b62d-8904fb830675">  
 
 
 3. **Product Selection**:
@@ -222,37 +222,17 @@ Clone the repository:
 
 ### Frontend Setup
 
-1. Install NVM (Node Version Manager):
-   ```sh
-   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
-   ```
-
-2. Activate NVM:
-   ```sh
-   source ~/.nvm/nvm.sh
-   ```
-
-3. Install Node.js version 14:
-   ```sh
-   nvm install 14
-   ```
-
-4. Verify Node.js version:
-   ```sh
-   node -v
-   ```
-
-5. Install frontend dependencies:
+1. Install frontend dependencies:
    ```sh
    npm install
    ```
 
-6. Build the frontend:
+2. Build the frontend:
    ```sh
    npm run build
    ```
 
-7. Start the frontend:
+3. Start the frontend:
    ```sh
    npm start
    ```
