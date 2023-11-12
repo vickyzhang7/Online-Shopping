@@ -12,6 +12,7 @@ The Online Shopping Platform is a comprehensive MERN (MongoDB, Express, React, N
 * [![React][React-icon]][React-url]
 * [![HTML][HTML-icon]][HTML-url]
 * [![CSS][CSS-icon]][CSS-url]
+* [![Redux][Redux-icon]][Redux-ul]
 * [![Git][Git-icon]][Git-url]
 * [![Postman][Postman-icon]][Postman-url]
 * [![NodeJS][NodeJS-icon]][NodeJS-ul]
@@ -34,6 +35,8 @@ The Online Shopping Platform is a comprehensive MERN (MongoDB, Express, React, N
 [MongoDB-ul]:https://www.mongodb.com/atlas/database
 [Postman-url]:https://www.postman.com/
 [Postman-icon]:https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+[Redux-icon]:https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white
+[Redux-url]:https://redux.js.org/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
