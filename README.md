@@ -12,11 +12,11 @@ The Online Shopping Platform is a comprehensive MERN (MongoDB, Express, React, N
 * [![React][React-icon]][React-url]
 * [![HTML][HTML-icon]][HTML-url]
 * [![CSS][CSS-icon]][CSS-url]
-* [![Redux][Redux-icon]][Redux-ul]
+* [![Redux][Redux-icon]][Redux-url]
 * [![Git][Git-icon]][Git-url]
 * [![Postman][Postman-icon]][Postman-url]
-* [![NodeJS][NodeJS-icon]][NodeJS-ul]
-* [![MongoDB][MongoDB-icon]][MongoDB-ul]
+* [![NodeJS][NodeJS-icon]][NodeJS-url]
+* [![MongoDB][MongoDB-icon]][MongoDB-url]
   
 
 [React-url]:https://reactjs.org/
@@ -30,9 +30,9 @@ The Online Shopping Platform is a comprehensive MERN (MongoDB, Express, React, N
 [Git-icon]:	https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [Git-url]:https://git-scm.com/
 [NodeJS-icon]:https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
-[NodeJS-ul]:https://nodejs.org/en
+[NodeJS-url]:https://nodejs.org/en
 [MongoDB-icon]:https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
-[MongoDB-ul]:https://www.mongodb.com/atlas/database
+[MongoDB-url]:https://www.mongodb.com/atlas/database
 [Postman-url]:https://www.postman.com/
 [Postman-icon]:https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 [Redux-icon]:https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white
