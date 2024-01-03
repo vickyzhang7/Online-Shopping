@@ -8,6 +8,7 @@ The Online Shopping Platform is a comprehensive MERN (MongoDB, Express, React, N
 
 **Major frameworks and libraries**:
 
+
 * [![JavaScript][JavaScript-icon]][JavaScript-url]
 * [![React][React-icon]][React-url]
 * [![HTML][HTML-icon]][HTML-url]
