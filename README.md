@@ -223,6 +223,11 @@ Clone the repository:
    ```sh
    gh repo clone vickyzhang7/Online-Shopping
    ```
+Update your Node.js:
+   ```sh
+   nvm install 20.5.0
+   nvm use 20.5.0
+   ```
 
 ### Backend Setup
 
@@ -272,6 +277,28 @@ Clone the repository:
 3. Start the frontend:
    ```sh
    npm start
+   ```
+
+### pushed the changes to the main branch on GitHub
+
+1: Reinitialize the Git repository
+  ```sh
+   git init
+   ```
+
+2: Add changes to the staging area
+   ```sh
+   git add .
+   ```
+
+3: Commit changes
+   ```sh
+   git commit -m "UsersInformation"
+   ```
+
+4. Push changes to GitHub
+   ```sh
+   git push origin main
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
