@@ -281,17 +281,17 @@ Update your Node.js:
 
 ### pushed the changes to the main branch on GitHub
 
-1: Reinitialize the Git repository
+1. Reinitialize the Git repository
   ```sh
    git init
    ```
 
-2: Add changes to the staging area
+2.  Add changes to the staging area
    ```sh
    git add .
    ```
 
-3: Commit changes
+3. Commit changes
    ```sh
    git commit -m "UsersInformation"
    ```
