@@ -58,7 +58,7 @@ The Online Shopping Platform is a comprehensive MERN (MongoDB, Express, React, N
 
 3. **Integration with Toastify for User Notifications:**
    - **Enhancing User Experience:**
-     - Toast notifications offer real-time feedback on user actions, enhancing overall user experience.
+     - Toast notifications offer real-time feedback on user actions, enhancing the overall user experience.
    - **Easy Implementation:**
      - The `react-toastify` package simplifies the implementation of notifications with customizable styles.
 
