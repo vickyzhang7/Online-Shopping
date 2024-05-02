@@ -2,6 +2,7 @@
 
 ## Introduction
 
+
 **Summary**:
 
 The Online Shopping Platform is a comprehensive MERN (MongoDB, Express, React, Node.js) application that seamlessly integrates frontend and backend components to deliver a robust and user-friendly online shopping experience. This project incorporates key features to enhance user engagement, security, and overall functionality.
